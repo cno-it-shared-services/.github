@@ -3,6 +3,7 @@ IT - Shared Services is an internal team of the Choctaw Nation of Oklahoma who p
 
 We partner with internal CNO groups to help them achieve their digital dreams to create better value sooner, safer, and happier.
 
+* [How we work](https://github.com/cno-it-shared-services/how-we-work)
 * [Engineering Practices Guide](https://github.com/cno-it-shared-services/engineering-practices-guide)
 
 <!--
