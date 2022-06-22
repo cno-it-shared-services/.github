@@ -1,6 +1,8 @@
 # Choctaw Nation of Oklahoma Information Technology - Shared Services
 IT - Shared Services is an internal team of the Choctaw Nation of Oklahoma who provide digital consulting services for goups with in the Choctaw Nation.
 
+We partner with internal CNO groups to help them achieve their digital dreams to create better value sooner, safer, and happier.
+
 * [Engineering Practices Guide](https://github.com/cno-it-shared-services/engineering-practices-guide)
 
 <!--
