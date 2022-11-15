@@ -5,6 +5,7 @@ We partner with internal CNO groups to help them achieve their digital dreams to
 
 * [How we work](https://github.com/cno-it-shared-services/how-we-work)
 * [Engineering Practices Guide](https://github.com/cno-it-shared-services/engineering-practices-guide)
+* [Lessons Learned](https://github.com/cno-it-shared-services/lessons-learned)
 
 <!--
 
